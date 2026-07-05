@@ -1,0 +1,6 @@
+BK1001,Java Learning,Liang,2012,Computing,1111,3,3
+BK1002,Harry Potter,Hellen Keller,1989,Fiction,2222,10,10
+BK1003,Pere-eKamil,Mira Ahmed,2018,Fiction,4443,3,3
+BK1004,C++,Ali,2023,Software Engineering,4545,5,5
+BK1005,Python,Kamran,1919,Computing,9090,2,2
+BK1006,Jungle Book ,Bilal,2026,Wilderness,8989,1,1
